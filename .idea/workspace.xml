@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91b6c0c0-14c7-4c4d-9092-cb781f43573c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Confusion/Ristorante-Con-Fusion.html" afterPath="$PROJECT_DIR$/Confusion/Ristorante-Con-Fusion.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Confusion/aboutUs.html" afterPath="$PROJECT_DIR$/Confusion/aboutUs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Confusion/contactUs.html" afterPath="$PROJECT_DIR$/Confusion/contactUs.html" />
     </list>
     <ignored path="Bootstrap-Assignment.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,8 +57,8 @@
       <file leaf-file-name="contactUs.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Confusion/contactUs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.3091716">
-              <caret line="59" column="62" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.5839754">
+              <caret line="159" column="18" selection-start-line="159" selection-start-column="18" selection-end-line="159" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -74,9 +72,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Confusion/contactUs.html" />
         <option value="$PROJECT_DIR$/Confusion/aboutUs.html" />
         <option value="$PROJECT_DIR$/Confusion/Ristorante-Con-Fusion.html" />
+        <option value="$PROJECT_DIR$/Confusion/contactUs.html" />
       </list>
     </option>
   </component>
@@ -87,8 +85,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="82" />
-    <option name="y" value="23" />
+    <option name="x" value="-3" />
+    <option name="y" value="28" />
     <option name="width" value="1180" />
     <option name="height" value="797" />
   </component>
@@ -238,7 +236,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="23" width="1180" height="797" extended-state="0" />
+    <frame x="-3" y="28" width="1180" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28728813" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -294,8 +292,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Confusion/contactUs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3091716">
-          <caret line="59" column="62" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
+        <state vertical-scroll-proportion="0.5839754">
+          <caret line="159" column="18" selection-start-line="159" selection-start-column="18" selection-end-line="159" selection-end-column="18" />
           <folding />
         </state>
       </provider>
