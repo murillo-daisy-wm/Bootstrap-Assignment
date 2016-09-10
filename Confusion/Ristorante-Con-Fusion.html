@@ -203,7 +203,7 @@
 <br>
 <center>
                                                     <div class="btn-group" data-toggle="buttons">
-                                                        <label class="btn btn-primary active"f>
+                                                        <label class="btn btn-primary active">
                                                             <input type="checkbox" checked autocomplete="off" style="color: green;"> non-smoking
                                                         </label>
                                                         <label class="btn btn-primary">
@@ -476,7 +476,9 @@
         </script>
 
 <!--Exercise 12-->
+
             <script>
+
                 $(document).ready(function(){
                     $("#mycarousel").carousel( { interval: 2000 } );
                     $("#carousel-pause").click(function(){
@@ -486,8 +488,17 @@
                         $("#mycarousel").carousel('cycle');
                     });
                 });
-            </script>
-<!---->
+
+//                modal Javascript piece
+
+                var modalBtn =  document.getElementById('toggleModal');
+                function modalOpenr(){
+                    $('#reserveModal').modal('toggle');
+                }
+                modalBtn.addEventListener("click", modalOpenr);
+//end
+                </script>
+
             <script src="js/bootstrap.min.js">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
